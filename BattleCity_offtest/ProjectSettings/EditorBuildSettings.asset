@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage1.unity
+    guid: cae9b58d10190c9469bd62713e7faf7a
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 2a89828e66dd97f46a9670d8c9097e12
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage2.unity
+    guid: 45c3e012e2448cd4d9ac559f42ec877d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 6af2da7fef4ce0142bb3b8ce3290af62
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 512c147f289618942980c11aec0a4be0
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: fe2e84d8db556964f8ee5ea6de1d41f6
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage3.unity
+    guid: 810de545a55392f4c8eb40d581a96d4b
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage4.unity
+    guid: 045f0f70c79d31d4996bd9d00d6de4c7
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage5.unity
+    guid: d532003900de1e242943f3ae2ad14d60
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage6.unity
+    guid: 5b2b19784241b1d439aa3a13088402d8
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage7.unity
+    guid: ad73c4aee78a81944b2821ecd2dd8e58
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage8.unity
+    guid: d5753573384b03a42a6df53cf7c73457
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage9.unity
+    guid: c23e0dd7d66a2f742bb0d702e5152b54
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage10.unity
+    guid: 39c31386787423f4bbf0d1a047e3d697
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage11.unity
+    guid: c3c15cd3141a6a14ca7ae17d1eeba48d
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage12.unity
+    guid: bcd599fb3cef4344d88ff1e0530ce5d0
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 7583c0aa51c012a4e8f3e737c77972db
+  - enabled: 1
+    path: Assets/Scenes/MyStage.unity
+    guid: 8af0e9a06a12a0446b9d2e8c9caf9f50
+  - enabled: 1
+    path: Assets/Scenes/GameOverPvP.unity
+    guid: 7094f5abdd745544294c71a0263df192
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: b8ecd7306e972674d8ab516733e821c5
+  m_configObjects: {}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Brick
+  - Steel
+  - Eagle
+  - PlayerTank
+  - PlayerBullet
+  - EnemyTank
+  - EnemyBullet
+  - Armored
+  - Small
+  - Fast
+  - EnemySpawnPoint
+  - PlayerSpawnPoint
+  - Big
+  - Player2SpawnPoint
+  - Player2Tank
+  - Flag1
+  - Flag2
+  - NeutralBullet
+  - NeutralTank
+  - NeutralSpawnPoint
+  - AllyP1SpawnPoint
+  - AllyP2SpawnPoint
+  - AllyP1Tank
+  - AllyP2Tank
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Brick
+  - Boundary
+  - PlayerTank
+  - PlayerBullet
+  - EnemyTank
+  - EnemyBullet
+  - PowerUps
+  - NeutralTank
+  - NeutralBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
